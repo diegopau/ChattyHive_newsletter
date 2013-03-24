@@ -4,7 +4,7 @@
     <list default="true" id="858edfee-247e-4ab2-bda7-cfbcfc66370c" name="Default" comment="" />
     <ignored path="ChattyHive_newsletter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="858edfee-247e-4ab2-bda7-cfbcfc66370c" time="1364053102265" ignored="false" />
+    <file path="/Gemfile" changelist="858edfee-247e-4ab2-bda7-cfbcfc66370c" time="1364113680947" ignored="false" />
     <file path="/maktoub.rb" changelist="858edfee-247e-4ab2-bda7-cfbcfc66370c" time="1364058668554" ignored="false" />
     <file path="/newsletter1.erb" changelist="858edfee-247e-4ab2-bda7-cfbcfc66370c" time="1364058987848" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +23,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="maktoub.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="maktoub.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/maktoub.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="38" selection-start="553" selection-end="553" vertical-scroll-proportion="0.30512822">
+            <state line="7" column="38" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="43" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17435898">
               <folding />
             </state>
           </provider>
@@ -42,11 +51,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/maktoub/_styles.erb" />
         <option value="$PROJECT_DIR$/app/views/maktoub/newsletters/newsletter1.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/config/initializers/maktoub.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -649,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby193/lib/ruby/gems/1.9.1/gems/maktoub-0.2.5/app/views/layouts/maktoub/_styles.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="327" column="26" selection-start="0" selection-end="7061" vertical-scroll-proportion="0.9031339">
@@ -705,7 +707,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/maktoub.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="553" selection-end="553" vertical-scroll-proportion="0.30512822">
+        <state line="7" column="38" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="43" selection-start="185" selection-end="185" vertical-scroll-proportion="0.17435898">
           <folding />
         </state>
       </provider>
